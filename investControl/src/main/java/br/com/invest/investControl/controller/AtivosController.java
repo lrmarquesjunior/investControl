@@ -15,12 +15,15 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@CrossOrigin(
-        origins = {"http://localhost:8081"}
-)
+//@CrossOrigin(origins = {"http://localhost:8081"})
 @RestController
-@RequestMapping({"/ativos"})
+//@RequestMapping({"/ativos"})
 public class AtivosController {
+    @GetMapping("/")
+    public String hello() {
+        return "Hello World ECS";
+    }
+/*
     private final AtivosService ativosService;
 
     @Autowired
@@ -60,5 +63,7 @@ public class AtivosController {
         this.ativosService.deletarPorNome(nomeAtivo);
         return ResponseEntity.noContent().build();
     }
+* */
+
 }
 
