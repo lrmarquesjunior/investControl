@@ -1,0 +1,5 @@
+br\com\invest\investControl\controller\AtivosController.class
+br\com\invest\investControl\repository\AtivosRepository.class
+br\com\invest\investControl\service\AtivosService.class
+br\com\invest\investControl\InvestControlApplication.class
+br\com\invest\investControl\entity\AtivosEntity.class
