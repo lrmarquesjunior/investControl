@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dfd0e4c-9aa9-4676-921b-d71f241dc7fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/src/main/java/br/com/invest/investControl/InvestControlApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/src/main/java/br/com/invest/investControl/controller/AtivosController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/src/main/java/br/com/invest/investControl/entity/AtivosEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/src/main/java/br/com/invest/investControl/repository/AtivosRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/src/main/java/br/com/invest/investControl/service/AtivosService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/src/test/java/br/com/invest/investControl/InvestControlApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/classes/br/com/invest/investControl/InvestControlApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/classes/br/com/invest/investControl/controller/AtivosController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/classes/br/com/invest/investControl/entity/AtivosEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/classes/br/com/invest/investControl/repository/AtivosRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/classes/br/com/invest/investControl/service/AtivosService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/investControl-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/investControl-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/surefire-reports/TEST-br.com.invest.investControl.InvestControlApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/surefire-reports/br.com.invest.investControl.InvestControlApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/investControl/target/test-classes/br/com/invest/investControl/InvestControlApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AjAwjMflokq9c0ObRoid3hTxKU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InvestControlApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.investControl [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.investControl [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.investControl [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.investControl [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.investControl [validate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Jr/AWS_Solut_Arch/investControl&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Jr\AWS_Solut_Arch\investControl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="investControl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="investControl" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dfd0e4c-9aa9-4676-921b-d71f241dc7fa" name="Changes" comment="" />
+      <created>1773095846280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773095846280</updated>
+    </task>
+    <servers />
+  </component>
+</project>
