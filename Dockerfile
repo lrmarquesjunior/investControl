@@ -5,7 +5,7 @@ FROM eclipse-temurin:17-jdk-jammy
 WORKDIR /app
 
 # Copia o arquivo .jar gerado pelo Maven para dentro da imagem
-COPY investControl/target/*.jar app.jar
+COPY target/*.jar app.jar
 
 # Expõe a porta que sua aplicação usa (geralmente 8080)
 EXPOSE 8080
