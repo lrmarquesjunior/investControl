@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class AtivosController {
     @GetMapping("/")
     public String hello() {
-        return "Hello World ECS";
+        return "Ticker inserido com sucesso: PETR4";
     }
 /*
     private final AtivosService ativosService;
